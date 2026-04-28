@@ -4,6 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
  --To-Do List PHP - Sistema de Gestão de Tarefas
+ 
 Este é um sistema de gerenciamento de tarefas (To-Do List) desenvolvido como parte de uma avaliação técnica. O projeto permite que usuários autenticados criem, editem, visualizem, concluam e excluam tarefas de forma organizada.
 
  --Funcionalidades
