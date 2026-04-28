@@ -40,6 +40,7 @@ Clonar o Repositório:
 
 --Bash
 git clone https://github.com/ErickCorreia/sistema-tarefas-php
+
 --Configurar o Banco de Dados:
 
 Acesse o phpMyAdmin ou seu terminal MySQL.
