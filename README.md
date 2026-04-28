@@ -1,9 +1,9 @@
 # sistema-tarefas-php
 
- To-Do List PHP - Sistema de Gestão de Tarefas
+ --To-Do List PHP - Sistema de Gestão de Tarefas
 Este é um sistema de gerenciamento de tarefas (To-Do List) desenvolvido como parte de uma avaliação técnica. O projeto permite que usuários autenticados criem, editem, visualizem, concluam e excluam tarefas de forma organizada.
 
- Funcionalidades
+ --Funcionalidades
 Autenticação Segura: Sistema de login com proteção de sessão e senhas criptografadas em MD5.
 
 CRUD Completo: Criação, Leitura, Atualização e Exclusão de tarefas.
@@ -14,7 +14,7 @@ Layout Responsivo: Interface moderna construída com Tailwind CSS.
 
 Segurança de Dados: Consultas ao banco de dados utilizando PDO e Prepared Statements para prevenir SQL Injection.
 
- Tecnologias Utilizadas
+ --Tecnologias Utilizadas
 Linguagem: PHP 8.x
 
 Banco de Dados: MySQL
@@ -23,7 +23,7 @@ Estilização: Tailwind CSS (via CDN)
 
 Ícones/Componentes: Componentes nativos do Tailwind (Badges, Cards, Tabelas)
 
- Pré-requisitos
+ --Pré-requisitos
 Para rodar o projeto localmente, você precisará de um ambiente de servidor local, como:
 
 XAMPP
@@ -32,12 +32,12 @@ WAMP
 
 Ou o servidor embutido do PHP + MySQL instalado.
 
- Instalação e Configuração
+ --Instalação e Configuração
 Clonar o Repositório:
 
-Bash
+--Bash
 git clone https://github.com/ErickCorreia/sistema-tarefas-php
-Configurar o Banco de Dados:
+--Configurar o Banco de Dados:
 
 Acesse o phpMyAdmin ou seu terminal MySQL.
 
@@ -57,14 +57,14 @@ Mova a pasta para o diretório htdocs (se estiver no XAMPP).
 
 Acesse no seu navegador: http://localhost/sistema-tarefas-php/login.php.
 
- Credenciais de Teste
+ --Credenciais de Teste
 Para avaliar o sistema, utilize o usuário padrão já cadastrado no banco de dados:
 
 Usuário: admin
 
 Senha: 123456
 
- Estrutura de Arquivos
+ --Estrutura de Arquivos
 login.php / logout.php: Controle de acesso.
 
 index.php: Painel principal com a listagem de tarefas.
