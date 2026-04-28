@@ -36,7 +36,7 @@ Ou o servidor embutido do PHP + MySQL instalado.
 Clonar o Repositório:
 
 Bash
-git clone https://github.com/SEU-USUARIO/sistema-tarefas-php.git
+git clone https://github.com/ErickCorreia/sistema-tarefas-php
 Configurar o Banco de Dados:
 
 Acesse o phpMyAdmin ou seu terminal MySQL.
