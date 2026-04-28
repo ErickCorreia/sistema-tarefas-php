@@ -1,4 +1,7 @@
 # sistema-tarefas-php
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
  --To-Do List PHP - Sistema de Gestão de Tarefas
 Este é um sistema de gerenciamento de tarefas (To-Do List) desenvolvido como parte de uma avaliação técnica. O projeto permite que usuários autenticados criem, editem, visualizem, concluam e excluam tarefas de forma organizada.
